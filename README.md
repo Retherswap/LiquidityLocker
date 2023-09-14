@@ -1,2 +1,2 @@
 # LiquidityLocker
-Liquidity locker for tokens deployed on Rthswap
+Liquidity locker for tokens deployed on Retherswap
